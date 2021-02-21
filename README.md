@@ -4,4 +4,4 @@ Shader created using shadergraph which implements billboarding and sprite select
 WIP: need to remap offset depending on angle between camera and object. I'd also like to handle animation (I'm thinking a x offset according to a periodicity and time elapsed could be good enough?)  
 
 
-![test sprite](./test-sprite-camera.gif)
+![test sprite](media/test_sprite_camera.gif)
