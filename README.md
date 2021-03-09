@@ -3,7 +3,7 @@ Shader created using shadergraph which implements billboarding and sprite select
 
 
 Writeups:  
-https://www.noveltech.dev/sprite-change-camera-direction/
+https://www.noveltech.dev/sprite-change-camera-direction/  
 https://www.noveltech.dev/sprite-change-camera-direction-2/
 
 
