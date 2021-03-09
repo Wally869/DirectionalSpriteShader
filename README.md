@@ -7,4 +7,4 @@ https://www.noveltech.dev/sprite-change-camera-direction/
 https://www.noveltech.dev/sprite-change-camera-direction-2/
 
 
-![test sprite](media/test_sprite_camera.gif)
+![test sprite](media/sprite_showoff.gif)
